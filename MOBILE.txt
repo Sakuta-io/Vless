@@ -1,0 +1,17 @@
+#profile-update-interval: 1
+#profile-title: 🏳️ Vless White
+#profile-web-page-url: https://t.me/+PEjbSzpAsWhkNzAy
+#support-url: https://t.me/tex_support_robot
+#announce: Для операторов сотой связи, в случае сильных глушилок
+vless://328f03f2-1e0d-4cd0-9126-4492bbd38348@84.201.146.248:443?encryption=none&security=reality&type=tcp&flow=xtls-rprx-vision&sni=max.ru&pbk=rh2IgXc0vtXZ3euLtMP8RUlnmBc_4ftYBuL5Z0udk2A#%F0%9F%87%B7%F0%9F%87%BANейро - Lexa Vercel 133
+
+vless://328f03f2-1e0d-4cd0-9126-4492bbd38348@84.201.146.160:443?encryption=none&security=reality&type=tcp&flow=xtls-rprx-vision&sni=max.ru&pbk=rh2IgXc0vtXZ3euLtMP8RUlnmBc_4ftYBuL5Z0udk2A#%F0%9F%87%B7%F0%9F%87%BANейро - Lexa Vercel 132
+
+vless://328f03f2-1e0d-4cd0-9126-4492bbd38348@84.201.146.160:8443?encryption=none&security=reality&type=tcp&flow=xtls-rprx-vision&sni=max.ru&pbk=rh2IgXc0vtXZ3euLtMP8RUlnmBc_4ftYBuL5Z0udk2A#%F0%9F%87%B7%F0%9F%87%BANейро - Lexa Vercel 134
+
+vless://328f03f2-1e0d-4cd0-9126-4492bbd38348@84.201.146.248:443?encryption=none&security=reality&type=tcp&flow=xtls-rprx-vision&sni=max.ru&pbk=rh2IgXc0vtXZ3euLtMP8RUlnmBc_4ftYBuL5Z0udk2A#%F0%9F%87%B7%F0%9F%87%BANейро - Lexa Vercel 135
+vless://328f03f2-1e0d-4cd0-9126-4492bbd38348@84.201.134.250:443?encryption=none&security=reality&type=tcp&flow=xtls-rprx-vision&sni=max.ru&pbk=rh2IgXc0vtXZ3euLtMP8RUlnmBc_4ftYBuL5Z0udk2A#%F0%9F%87%B7%F0%9F%87%BANейро - Lexa Vercel 136
+vless://328f03f2-1e0d-4cd0-9126-4492bbd38348@84.201.146.160:8443?encryption=none&security=reality&type=tcp&flow=xtls-rprx-vision&sni=max.ru&pbk=rh2IgXc0vtXZ3euLtMP8RUlnmBc_4ftYBuL5Z0udk2A#%F0%9F%87%B7%F0%9F%87%BANейро - Lexa Vercel 137
+vless://328f03f2-1e0d-4cd0-9126-4492bbd38348@84.201.146.160:443?encryption=none&security=reality&type=tcp&flow=xtls-rprx-vision&sni=max.ru&pbk=rh2IgXc0vtXZ3euLtMP8RUlnmBc_4ftYBuL5Z0udk2A#%F0%9F%87%B7%F0%9F%87%BANейро - Lexa Vercel 138
+vless://328f03f2-1e0d-4cd0-9126-4492bbd38348@84.201.145.80:443?encryption=none&security=reality&type=tcp&flow=xtls-rprx-vision&sni=max.ru&pbk=rh2IgXc0vtXZ3euLtMP8RUlnmBc_4ftYBuL5Z0udk2A#%F0%9F%87%B7%F0%9F%87%BANейро - Lexa Vercel 139
+vless://328f03f2-1e0d-4cd0-9126-4492bbd38348@84.201.150.246:443?encryption=none&security=reality&type=tcp&flow=xtls-rprx-vision&sni=max.ru&pbk=rh2IgXc0vtXZ3euLtMP8RUlnmBc_4ftYBuL5Z0udk2A#%F0%9F%87%B7%F0%9F%87%BANейро - Lexa Vercel 140
